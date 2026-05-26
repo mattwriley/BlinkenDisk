@@ -1,0 +1,11 @@
+version: "Apple Swift version 6.1.2 (swiftlang-6.1.2.1.2 clang-1700.0.13.5)"
+options: "896d92ba3ea14c38c09f8b1a3d53822372c2ebd5d3346e05af61ce2acf080429"
+build_start_time: [1779815064, 785267000]
+build_end_time: [1779815066, 808756000]
+inputs:
+  "/Users/dave/Downloads/BlinkenDisk/Sources/BlinkenDisk/AppDelegate.swift": [1779812458, 0]
+  "/Users/dave/Downloads/BlinkenDisk/Sources/BlinkenDisk/DiskMonitor.swift": [1779813086, 387706381]
+  "/Users/dave/Downloads/BlinkenDisk/Sources/BlinkenDisk/LEDRenderer.swift": [1779813875, 572121927]
+  "/Users/dave/Downloads/BlinkenDisk/Sources/BlinkenDisk/SettingsWindowController.swift": [1779814514, 310625538]
+  "/Users/dave/Downloads/BlinkenDisk/Sources/BlinkenDisk/StatusController.swift": [1779815061, 314225053]
+  "/Users/dave/Downloads/BlinkenDisk/Sources/BlinkenDisk/main.swift": [1779814207, 576165015]

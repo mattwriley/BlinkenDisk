@@ -1,0 +1,37 @@
+{
+  "": {
+    "dependencies": "/Users/dave/Downloads/BlinkenDisk/.build/arm64-apple-macosx/release/BlinkenDisk.build/BlinkenDisk.d",
+    "object": "/Users/dave/Downloads/BlinkenDisk/.build/arm64-apple-macosx/release/BlinkenDisk.build/BlinkenDisk.o",
+    "swift-dependencies": "/Users/dave/Downloads/BlinkenDisk/.build/arm64-apple-macosx/release/BlinkenDisk.build/master.swiftdeps"
+  },
+  "/Users/dave/Downloads/BlinkenDisk/Sources/BlinkenDisk/AppDelegate.swift": {
+    "object": "/Users/dave/Downloads/BlinkenDisk/.build/arm64-apple-macosx/release/BlinkenDisk.build/AppDelegate.swift.o",
+    "swiftmodule": "/Users/dave/Downloads/BlinkenDisk/.build/arm64-apple-macosx/release/BlinkenDisk.build/AppDelegate~partial.swiftmodule",
+    "swift-dependencies": "/Users/dave/Downloads/BlinkenDisk/.build/arm64-apple-macosx/release/BlinkenDisk.build/AppDelegate.swiftdeps"
+  },
+  "/Users/dave/Downloads/BlinkenDisk/Sources/BlinkenDisk/DiskMonitor.swift": {
+    "object": "/Users/dave/Downloads/BlinkenDisk/.build/arm64-apple-macosx/release/BlinkenDisk.build/DiskMonitor.swift.o",
+    "swiftmodule": "/Users/dave/Downloads/BlinkenDisk/.build/arm64-apple-macosx/release/BlinkenDisk.build/DiskMonitor~partial.swiftmodule",
+    "swift-dependencies": "/Users/dave/Downloads/BlinkenDisk/.build/arm64-apple-macosx/release/BlinkenDisk.build/DiskMonitor.swiftdeps"
+  },
+  "/Users/dave/Downloads/BlinkenDisk/Sources/BlinkenDisk/LEDRenderer.swift": {
+    "object": "/Users/dave/Downloads/BlinkenDisk/.build/arm64-apple-macosx/release/BlinkenDisk.build/LEDRenderer.swift.o",
+    "swiftmodule": "/Users/dave/Downloads/BlinkenDisk/.build/arm64-apple-macosx/release/BlinkenDisk.build/LEDRenderer~partial.swiftmodule",
+    "swift-dependencies": "/Users/dave/Downloads/BlinkenDisk/.build/arm64-apple-macosx/release/BlinkenDisk.build/LEDRenderer.swiftdeps"
+  },
+  "/Users/dave/Downloads/BlinkenDisk/Sources/BlinkenDisk/SettingsWindowController.swift": {
+    "object": "/Users/dave/Downloads/BlinkenDisk/.build/arm64-apple-macosx/release/BlinkenDisk.build/SettingsWindowController.swift.o",
+    "swiftmodule": "/Users/dave/Downloads/BlinkenDisk/.build/arm64-apple-macosx/release/BlinkenDisk.build/SettingsWindowController~partial.swiftmodule",
+    "swift-dependencies": "/Users/dave/Downloads/BlinkenDisk/.build/arm64-apple-macosx/release/BlinkenDisk.build/SettingsWindowController.swiftdeps"
+  },
+  "/Users/dave/Downloads/BlinkenDisk/Sources/BlinkenDisk/StatusController.swift": {
+    "object": "/Users/dave/Downloads/BlinkenDisk/.build/arm64-apple-macosx/release/BlinkenDisk.build/StatusController.swift.o",
+    "swiftmodule": "/Users/dave/Downloads/BlinkenDisk/.build/arm64-apple-macosx/release/BlinkenDisk.build/StatusController~partial.swiftmodule",
+    "swift-dependencies": "/Users/dave/Downloads/BlinkenDisk/.build/arm64-apple-macosx/release/BlinkenDisk.build/StatusController.swiftdeps"
+  },
+  "/Users/dave/Downloads/BlinkenDisk/Sources/BlinkenDisk/main.swift": {
+    "object": "/Users/dave/Downloads/BlinkenDisk/.build/arm64-apple-macosx/release/BlinkenDisk.build/main.swift.o",
+    "swiftmodule": "/Users/dave/Downloads/BlinkenDisk/.build/arm64-apple-macosx/release/BlinkenDisk.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/dave/Downloads/BlinkenDisk/.build/arm64-apple-macosx/release/BlinkenDisk.build/main.swiftdeps"
+  }
+}
