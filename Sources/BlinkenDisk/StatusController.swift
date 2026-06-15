@@ -27,7 +27,7 @@ final class StatusController: NSObject {
     private let pollIntervalSec: TimeInterval = 0.050
     private var ledDurationSec: TimeInterval = 0.010
     private var ledColors: [String: LEDRenderer.LEDColor] = [:]
-    private let statusItemLength: CGFloat = 18
+    private let statusItemLength: CGFloat = 12
 
     // MARK: - Init
 
